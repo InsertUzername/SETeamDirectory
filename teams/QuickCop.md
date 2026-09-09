@@ -1,5 +1,4 @@
 
-
 # QuickCop
 
 - Nhiakou Alex Xiong, [InsertUzername](https://github.com/InsertUzername)
