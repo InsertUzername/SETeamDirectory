@@ -1,3 +1,3 @@
 # 
 
-* [Jakob Lee] (https://github.com/InsertUzername)
+* Jay Lee,[Attainables](https://github.com/InsertUzername)
