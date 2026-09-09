@@ -1,1 +1,1 @@
-- [Carolyn Thai](https://github.com/Luneric)
+- Carolyn Thai, [Luneric](https://github.com/Luneric)
