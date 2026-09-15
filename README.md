@@ -3,7 +3,7 @@
 ## CSCI 430 (Fall 2026):
 * [BetterTicket]()
 * [CampusCuisines](teams/CampusCuisines.md)
-* [ClassFinder]()
+* [ClassFinder](teams/Classfinder.md)
 * [CreditCardMatch](teams/CreditCardMatch.md)
 * [MedCheck]()
 * [PrismaticLauncher]()
